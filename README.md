@@ -7,6 +7,7 @@ This project analyzes retail sales data using Python to identify patterns, trend
 - Python
 - Pandas
 - Matplotlib
+- Jupyter Notebook
 
 ## Dataset
 The dataset contains retail sales information including product name, category, region, sales, and profit.
