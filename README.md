@@ -14,6 +14,7 @@ The dataset contains retail sales information including product name, category, 
 ## Analysis Performed
 - Sales by Category
 - Profit by Category
+- profit by Region
 - Sales by Region
 - Top 10 Products by Sales
 - Monthly Sales Trend
